@@ -1,3 +1,5 @@
 Juan David Pemberthy Gonzalez
 18
 aspiro a obtener suficientes conocimientos en programacion en java y python , mejorar la logica de programacion y emplear los conocimeintos adquiridos para mi vida academica
+porque la carpeta dejó de estar vacía al agregar el nuevo archivo respuesta
+porque podemos perder la información de dichos archivos
